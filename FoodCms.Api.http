@@ -1,0 +1,6 @@
+@FOODCMS.API_HostAddress = http://localhost:5031
+
+GET {{FOODCMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
